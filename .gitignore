@@ -6,8 +6,5 @@ env/
 # Large or sensitive files
 vgg_unfrozen.h5
 
-# Python bytecode files
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
+
