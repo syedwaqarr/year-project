@@ -2,6 +2,6 @@ tensorflow
 Pillow
 pandas
 streamlit
-streamlit_options_menu
+streamlit_option_menu
 numpy
 scikit-image
