@@ -1,10 +1,6 @@
-# Python virtual environment
 venv/
 .venv/
 env/
-
-# Large or sensitive files
 vgg_unfrozen.h5
-
 __pycache__/
 
