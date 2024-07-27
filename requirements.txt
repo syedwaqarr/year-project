@@ -1,0 +1,8 @@
+tensorflow
+numpy
+pandas
+opencv-python
+Pillow
+scikit-image
+streamlit
+streamlit_option_menu 
