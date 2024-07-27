@@ -1,7 +1,0 @@
-tensorflow
-Pillow
-pandas
-streamlit
-streamlit_option_menu
-numpy
-scikit-image
